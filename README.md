@@ -1,5 +1,5 @@
 # Pizza-Sales-Analysis
-End-to-end data analysis using MySQL and Power BI●● Pizza Sales Analysis 🍕
+End-to-end data analysis using MySQL and Power BI●● Pizza Sales Analysis🍕
 
 ● Objective
 To analyze pizza sales data and identify order patterns, top-performing pizzas,
